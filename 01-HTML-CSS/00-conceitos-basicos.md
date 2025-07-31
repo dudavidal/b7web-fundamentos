@@ -14,3 +14,16 @@
 - Ele permite mudar cores, fontes, tamanhos, posicionamento dos elementos, criar animações e deixar tudo com a sua cara e seu jeito ?
 
 ![Meme de HTML E CSS](0.0-img\memeHTML.png)
+
+
+## 💡 Formas de utilizar o CSS
+O CSS pode ser aplicado de três maneiras diferentes:
+
+- inline: diretamente na tag HTML, com o atributo style.
+- interno: dentro de uma tag <style> no próprio arquivo HTML.
+- Externo: em um arquivo .css separado, vinculado ao HTML com a tag <link>. 
+
+exemplo:
+```html 
+ <link rel="stylesheet" href="nome.aquivo"
+```
